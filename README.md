@@ -1,27 +1,26 @@
-# Project Title
+## Process Simulator
 
-This simulation captures how a CPU work and behaves
-
-## Getting Started
-Clone or download this repo into the desktop. Use visual studio or visual code to import the project. 
-Use the build button to rebuild the application.
-Then hit run.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Visual Studio
+This simulation captures how a CPU works and behaves when scheduling jobs for proccessing.
+The purpose of this project was learn about discrete event scheduling.
+***
+### What you need to run this
+[Visual Studio](https://visualstudio.microsoft.com/)
 or
-Visual Code
-```
+[VSCode](https://code.visualstudio.com/)
 
-## Built With
-C# - Visual Studio
+### Getting Started
+* Clone the [ProcessSimulator](https://github.com/vildanhakanaj/processsimulator.git) repo to your computer and import the folder into visual studio or vs code. 
+Build and run the application and follow instructions on screen.
 
-## Authors
+#### Clone using the cli
+git clone https://https://github.com/vildanhakanaj/processsimulator.git 
+#### Clone using the github website
+Just go to the repo [ProcessSimulator](https://github.com/vildanhakanaj/processsimulator.git) and then click on the clone button.
+
+### Built With
+* Visual Studio
+* C#
+* Git
+
+#### Authors
 Vildan Hakanaj
-
-## Acknowledgments
-* Proffesor Brian Patrick who provided the priority queue File
